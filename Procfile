@@ -1,0 +1,1 @@
+web: gunicorn manezco_test.wsgi
